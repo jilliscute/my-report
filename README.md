@@ -14,7 +14,8 @@
 >plot(data$x5,data$y)
 
 * build a model
-``` model=lm(data$y~data$x1+data$x2+data$x3+data$x4+data$x5,data=data,x=T)
+``` 
+model=lm(data$y~data$x1+data$x2+data$x3+data$x4+data$x5,data=data,x=T)
 anova(model)
 summary(model)
 
