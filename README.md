@@ -1,7 +1,7 @@
 # my-report:regression
 
-The file have x1~x5 and  y
-We want to discuss whether they have relationship or not
+######The file have x1~x5 and  y
+######We want to discuss whether they have relationship or not
 ---------------
 * read files
 >data<-read.csv(file.choose(),fileEncoding="big5")
